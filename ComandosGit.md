@@ -1,4 +1,4 @@
-#Comandos importantes do Git:
+# Comandos importantes do Git:
 
 ### git init
 inicia um repositório
